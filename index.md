@@ -1,7 +1,10 @@
-# Hi 👋🏼! I'm Lymeng
+## Welcome
 
-a passionate data scientist 💻 having experiences on data analystics and machine learning with Python and BI tools.
+# 👋🏼 Hi! I'm Lymeng,
+A passionate data scientist 💻 having experiences on data analystics and machine learning 🤖 with Python 🐍 and BI tools.
 
+## my second home 🏡
+Mekong Big Data 
 
-### Contact
+### Have a talk:
 💌 lymeng.c@gmail.com
